@@ -36,7 +36,7 @@ This repository contains
 
 * [A Jupyter Notebook](https://github.com/aws-samples/amazon-sagemaker-xgboost-regression-model-hosting-on-amazon-ecs-fargate-and-amazon-api-gateway/blob/main/notebooks/sm_xgboost_ca_housing_ecs_container_model_hosting.ipynb) to get started.
 
-* [An AWS Lambda function in Python3](https://github.com/aws-samples/amazon-sagemaker-xgboost-regression-model-hosting-on-amazon-ecs-fargate-and-amazon-api-gateway/blob/main/notebooks/scripts/container_sm_xgboost_ca_housing_inference.py) that contains the code for performing inference.
+* [A Flask app inference script in Python3](https://github.com/aws-samples/amazon-sagemaker-xgboost-regression-model-hosting-on-amazon-ecs-fargate-and-amazon-api-gateway/blob/main/notebooks/scripts/container_sm_xgboost_ca_housing_inference.py) that contains the code for performing inference.
 
 * [The California Housing dataset in CSV format](https://github.com/aws-samples/amazon-sagemaker-xgboost-regression-model-hosting-on-amazon-ecs-fargate-and-amazon-api-gateway/tree/main/notebooks/datasets).
 
